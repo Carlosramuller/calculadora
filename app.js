@@ -1,0 +1,1 @@
+const {sumar,restar,multiplciar,dividir} = require('./calculadora')
